@@ -5,13 +5,19 @@
     Astral Midnight 
 </h1>
 <p align="center">
-   A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment, 
+   A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment
 </p>
 <br />
 <br />
-  
- 
- <div align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/108873224/204333286-933d52ca-91f2-4d94-8266-944bdbe9628d.png" width="100" />
+
+## Installation
+
+To install the Astral Midnight theme, open a command prompt or terminal window and enter the following command:
+
+`bash
+code --install-extension astral-midnight
+`
+
+<div align="center">
   <h6>  Made By <a href="https://github.com/sumyat-aung/">Su Myat Aung</a></h1>
 </div>
