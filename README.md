@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/sumyat-aung/astral-midnight-vscode-theme/main/astral-midnight.png" width="100" />
+  <img alt="Logo" src="https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/astral-midnight.png" width="100" />
 </div>
 <h1 align="center">
     Astral Midnight 
