@@ -3,6 +3,19 @@
   "displayName": "Astral Midnight",
   "description": "A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment.",
   "version": "0.0.1",
+  "publisher": "SuMyatAung",
+  "keywords": [
+    "dark theme",
+    "gray theme",
+    "midnight",
+    "astral",
+    "astral midnigh",
+    "black theme"
+  ],
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/sumyat-aung/astral-midnight-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
