@@ -9,15 +9,20 @@
 </p>
 <br />
 <br />
+<br />
 
 ## Installation
 
 To install the Astral Midnight theme, open a command prompt or terminal window and enter the following command:
 
-`bash
-code --install-extension astral-midnight
-`
+```bash
+code --install-extension sumyataung.astral-midnight
 
+```
+
+<br />
+<br />
+<br />
 <div align="center">
   <h6>  Made By <a href="https://github.com/sumyat-aung/">Su Myat Aung</a></h1>
 </div>
