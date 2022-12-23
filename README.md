@@ -2,10 +2,10 @@
     Astral Midnight 
 </h1>
 <p align="center">
-   A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment
+   A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment.
 </p>
 <div align="center">
-  <img alt="Logo" src="https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/astral-midnight.png" />
+  <img alt="Logo" src="https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/astral-midnight.png" width='90%'/>
 </div>
 <br />
 <br />
