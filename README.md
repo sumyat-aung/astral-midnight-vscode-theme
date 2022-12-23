@@ -1,13 +1,12 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/astral-midnight.png" width="100" />
-</div>
 <h1 align="center">
     Astral Midnight 
 </h1>
 <p align="center">
    A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment
 </p>
-<br />
+<div align="center">
+  <img alt="Logo" src="https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/astral-midnight.png" />
+</div>
 <br />
 <br />
 
