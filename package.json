@@ -1,0 +1,21 @@
+{
+  "name": "astral-midnight",
+  "displayName": "Astral Midnight",
+  "description": "A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astral Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Astral Midnight-color-theme.json"
+      }
+    ]
+  }
+}
