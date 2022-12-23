@@ -5,7 +5,7 @@
    A sleek and sophisticated color-theme that brings a professional and modern look to your coding environment.
 </p>
 <div align="center">
-  <img alt="Logo" src="astral-midnight.png" width='90%'/>
+  <img alt="Logo" src="astral.midnight.png" width='90%'/>
 </div>
 <br />
 <br />
