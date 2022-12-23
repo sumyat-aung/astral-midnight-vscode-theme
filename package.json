@@ -8,7 +8,7 @@
     "type": "git",
     "directory": "https://github.com/sumyat-aung/astral-midnight-vscode-theme"
   },
-  "icon": "https://github.com/sumyat-aung/astral-midnight-vscode-theme/blob/main/icon.png",
+  "icon": "icon.png",
   "keywords": [
     "dark theme",
     "gray theme",
