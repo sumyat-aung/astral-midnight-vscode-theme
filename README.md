@@ -22,6 +22,7 @@ code --install-extension sumyataung.astral-midnight
 <br />
 <br />
 <br />
+
 <div align="center">
-  <h6>  Made By <a href="https://github.com/sumyat-aung/">Su Myat Aung</a></h1>
+  <h6>  Made By <a href="https://sumyat.pages.dev/">Su Myat Aung</a></h1>
 </div>
